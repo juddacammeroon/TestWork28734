@@ -1,0 +1,1 @@
+(()=>{"use strict";window.wp.blockEditor,window.wp.i18n,window.ReactJSXRuntime})();
